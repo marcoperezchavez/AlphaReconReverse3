@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaReconReverse", "AlphaReconReverse.csproj", "{3CAC1F7B-4615-4073-A066-2DB20DEA868E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaReconReverseTest", "..\AlphaReconReverseTest\AlphaReconReverseTest.csproj", "{0E5ECF6A-FF1F-4099-BB7F-E1C439FD049E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAC1F7B-4615-4073-A066-2DB20DEA868E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAC1F7B-4615-4073-A066-2DB20DEA868E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAC1F7B-4615-4073-A066-2DB20DEA868E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAC1F7B-4615-4073-A066-2DB20DEA868E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5ECF6A-FF1F-4099-BB7F-E1C439FD049E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5ECF6A-FF1F-4099-BB7F-E1C439FD049E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5ECF6A-FF1F-4099-BB7F-E1C439FD049E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5ECF6A-FF1F-4099-BB7F-E1C439FD049E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8614F33-8CF4-4390-83D6-189E1E947F3B}
+	EndGlobalSection
+EndGlobal

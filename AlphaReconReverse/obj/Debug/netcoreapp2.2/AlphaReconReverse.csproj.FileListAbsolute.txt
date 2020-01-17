@@ -1,0 +1,9 @@
+C:\Users\MARCO\source\repos\AlphaReconReverse\bin\Debug\netcoreapp2.2\AlphaReconReverse.deps.json
+C:\Users\MARCO\source\repos\AlphaReconReverse\bin\Debug\netcoreapp2.2\AlphaReconReverse.runtimeconfig.json
+C:\Users\MARCO\source\repos\AlphaReconReverse\bin\Debug\netcoreapp2.2\AlphaReconReverse.runtimeconfig.dev.json
+C:\Users\MARCO\source\repos\AlphaReconReverse\bin\Debug\netcoreapp2.2\AlphaReconReverse.dll
+C:\Users\MARCO\source\repos\AlphaReconReverse\bin\Debug\netcoreapp2.2\AlphaReconReverse.pdb
+C:\Users\MARCO\source\repos\AlphaReconReverse\obj\Debug\netcoreapp2.2\AlphaReconReverse.AssemblyInfoInputs.cache
+C:\Users\MARCO\source\repos\AlphaReconReverse\obj\Debug\netcoreapp2.2\AlphaReconReverse.AssemblyInfo.cs
+C:\Users\MARCO\source\repos\AlphaReconReverse\obj\Debug\netcoreapp2.2\AlphaReconReverse.dll
+C:\Users\MARCO\source\repos\AlphaReconReverse\obj\Debug\netcoreapp2.2\AlphaReconReverse.pdb
