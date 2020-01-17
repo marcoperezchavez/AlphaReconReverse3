@@ -1,0 +1,16 @@
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\AlphaReconReverseTest.deps.json
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\AlphaReconReverseTest.runtimeconfig.json
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\AlphaReconReverseTest.runtimeconfig.dev.json
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\AlphaReconReverseTest.dll
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\AlphaReconReverseTest.pdb
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\AlphaReconReverse.dll
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\bin\Debug\netcoreapp2.2\AlphaReconReverse.pdb
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\obj\Debug\netcoreapp2.2\AlphaReconReverseTest.csprojAssemblyReference.cache
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\obj\Debug\netcoreapp2.2\AlphaReconReverseTest.AssemblyInfoInputs.cache
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\obj\Debug\netcoreapp2.2\AlphaReconReverseTest.AssemblyInfo.cs
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\obj\Debug\netcoreapp2.2\AlphaReconReverseTest.csproj.CopyComplete
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\obj\Debug\netcoreapp2.2\AlphaReconReverseTest.dll
+C:\Users\MARCO\source\repos\AlphaReconReverseTest\obj\Debug\netcoreapp2.2\AlphaReconReverseTest.pdb
